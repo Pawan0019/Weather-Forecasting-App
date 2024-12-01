@@ -57,9 +57,12 @@ A simple weather dashboard application that provides the current weather and a 5
 ```plaintext
 weather-dashboard-app/
 │
-├── index.html            # Main HTML file
-├── style.css             # CSS file for styling
-├── script.js             # JavaScript file for functionality
+├── HTML/                 # Folder of HTML
+    ├──index.html            # Main HTML file
+├── CSS/                  # Folder of CSS
+    ├── style.css            # CSS file for styling
+├── JavaScript/           # Folder of JavaScript
+    ├──script.js             # JavaScript file for functionality
 └── screenshots/          # Folder for screenshots
     ├── main.png   # Screenshot of the main screen
     └── weather.png # Screenshot of the weather forecast
