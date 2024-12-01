@@ -66,7 +66,7 @@ weather-dashboard-app/
 ```
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Pawan0019/Weather-Forecasting-App/blob/main/License/MIT%20License) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Pawan0019/Weather-Forecasting-App/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
