@@ -1,5 +1,4 @@
 # Weather Forecasting App 🌤️
-
 A simple weather dashboard application that provides the current weather and a 5-day forecast for any city using the OpenWeatherMap API. It also has a feature to get the weather of your current location using geolocation.
 
 ## Features
